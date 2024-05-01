@@ -1,5 +1,5 @@
-## 2.3. Циклы
-# 1. Раз, два, три! Ёлочка, гори!
+# 2.3. Циклы
+## 1. Раз, два, три! Ёлочка, гори!
 ```python
 s = input()
 while s != 'Три!':
@@ -7,7 +7,7 @@ while s != 'Три!':
     s = input()
 print('Ёлочка, гори!')
 ```
-# 2. Зайка — 3
+## 2. Зайка — 3
 ```python
 s = input()
 
@@ -19,14 +19,14 @@ while s != 'Приехали!':
 
 print(res)
 ```
-# 3. Считалочка
+## 3. Считалочка
 ```python
 n1, n2 = int(input()), int(input())
 
 for n in range(n1, n2 + 1):
     print(n, end=' ')
 ```
-# 4. Считалочка 2.0
+## 4. Считалочка 2.0
 ```python
 n1, n2 = int(input()), int(input())
 
@@ -37,7 +37,7 @@ else:
     for n in range(n1, n2 - 1, -1):
         print(n, end=' ')
 ```
-# 5. Внимание! Акция!
+## 5. Внимание! Акция!
 ```python
 price = float(input())
 
@@ -51,7 +51,7 @@ while price != 0:
 
 print(res)
 ```
-# 6. НОД
+## 6. НОД
 ```python
 n1, n2 = int(input()), int(input())
 
@@ -63,7 +63,7 @@ while n1 != n2:
 
 print(n1)
 ```
-# 7. НОК
+## 7. НОК
 ```python
 n1, n2 = int(input()), int(input())
 a, b = n1, n2
@@ -76,14 +76,14 @@ while n1 != n2:
 
 print(int(a / n1 * b))
 ```
-# 8. Излишняя автоматизация 2.0
+## 8. Излишняя автоматизация 2.0
 ```python
 s, n = input(), int(input())
 
 for _ in range(n):
     print(s)
 ```
-# 9. Факториал
+## 9. Факториал
 ```python
 n = int(input())
 
@@ -93,7 +93,7 @@ for i in range(2, n + 1):
 
 print(res)
 ```
-# 10. Маршрут построен
+## 10. Маршрут построен
 ```python
 direction = input()
 
@@ -112,15 +112,15 @@ while direction != 'СТОП':
 
 print(res1, res2, sep='\n')
 ```
-# 11. Цифровая сумма
+## 11. Цифровая сумма
 ```python
 print(sum(int(num) for num in input()))
 ```
-# 12. Сильная цифра
+## 12. Сильная цифра
 ```python
 print(max(int(num) for num in input()))
 ```
-# 13. Первому игроку приготовиться 2.0
+## 13. Первому игроку приготовиться 2.0
 ```python
 n = int(input())
 
@@ -132,7 +132,7 @@ for _ in range(n - 1):
 
 print(res)
 ```
-# 14. Простая задача
+## 14. Простая задача
 ```python
 def prime(n):
     if n > 1:
@@ -146,7 +146,7 @@ def prime(n):
 is_prime = prime(int(input()))
 print('YES') if is_prime else print('NO')
 ```
-# 15. Зайка - 4
+## 15. Зайка - 4
 ```python
 n = int(input())
 
@@ -158,14 +158,14 @@ for _ in range(n):
 
 print(res)
 ```
-# 16. А роза упала на лапу Азора 2.0
+## 16. А роза упала на лапу Азора 2.0
 ```python
 s = input()
 
 is_pall = all(s[i] == s[-i - 1]for i in range(len(s) // 2))
 print('YES') if is_pall else print('NO')
 ```
-# 17. Чётная чистота
+## 17. Чётная чистота
 ```python
 s = input()
 
@@ -173,7 +173,7 @@ for num in s:
     if int(num) % 2 != 0:
         print(num, end='')
 ```
-# 18. Простая задача 2.0
+## 18. Простая задача 2.0
 ```python
 n = int(input())
 
@@ -186,7 +186,7 @@ while d < n:
         d += 1
 print(d)
 ```
-# 19. Игра в «Угадайку»
+## 19. Игра в «Угадайку»
 ```python
 begin, end = 0, 1001
 
@@ -205,7 +205,7 @@ while (x := input()) != 'Угадал!':
             begin = (begin + end) // 2
             print((begin + end) // 2)
 ```
-# 20. Хайпанём немножечко!
+## 20. Хайпанём немножечко!
 ```python
 res, hn0 = -1, 0
 
