@@ -1,5 +1,5 @@
-## 2.2. Условный оператор
-# 1. Просто здравствуй, просто как дела
+# 2.2. Условный оператор
+## 1. Просто здравствуй, просто как дела
 ```python
 name = input('Как Вас зовут?\n')
 print(f'Здравствуйте, {name}!')
@@ -9,7 +9,7 @@ if mood == 'хорошо':
 else:
     print('Всё наладится!')
 ```
-# 2. Кто быстрее?
+## 2. Кто быстрее?
 ```python
 p, v = int(input()), int(input())
 
@@ -18,7 +18,7 @@ if p > v:
 else:
     print('Вася')
 ```
-# 3. Кто быстрее на этот раз?
+## 3. Кто быстрее на этот раз?
 ```python
 p, v, t = int(input()), int(input()), int(input())
 
@@ -31,7 +31,7 @@ elif max_speed == v:
 else:
     print('Толя')
 ```
-# 4. Список победителей
+## 4. Список победителей
 ```python
 p, v, t = int(input()), int(input()), int(input())
 
@@ -50,7 +50,7 @@ elif max_speed == t and min_speed == v:
 else:
     print(f'1. Толя\n2. Вася\n3. Петя')
 ```
-# 5. Яблоки
+## 5. Яблоки
 ```python
 n, m = int(input()), int(input())
 
@@ -60,7 +60,7 @@ if p > v:
 else:
     print('Вася')
 ```
-# 6. Сила прокрастинации
+## 6. Сила прокрастинации
 ```python
 year = int(input())
 
@@ -69,7 +69,7 @@ if (year % 4 == 0 and year % 100 != 0) or (year % 100 == 0 and year % 400 == 0):
 else:
     print('NO')
 ```
-# 7. А роза упала на лапу Азора
+## 7. А роза упала на лапу Азора
 ```python
 n = input()
 
@@ -78,7 +78,7 @@ if n == n[::-1]:
 else:
     print('NO')
 ```
-# 8. Зайка — 1
+## 8. Зайка — 1
 ```python
 s = list(input().lower().split())
 
@@ -87,37 +87,37 @@ if 'зайка' in s:
 else:
     print('NO')
 ```
-# 9. Первому игроку приготовиться
+## 9. Первому игроку приготовиться
 ```python
 name1, name2, name3 = input(), input(), input()
 print(min(name1, name2, name3))
 ```
-# 10. Лучшая защита — шифрование
+## 10. Лучшая защита — шифрование
 ```python
 n = int(input())
 
 res = sorted([n % 10 + n // 10 % 10, n // 10 % 10 + n // 100], reverse=True)
 print(f'{res[0]}{res[1]}')
 ```
-# 11. Красота спасёт мир
+## 11. Красота спасёт мир
 ```python
 n = sorted(input())
 
 print('YES') if (int(n[0]) + int(n[2])) == int(n[1]) * 2 else print('NO')
 ```
-# 12. Музыкальный инструмент
+## 12. Музыкальный инструмент
 ```python
 a, b, c = int(input()), int(input()), int(input())
 
 print('YES') if a + b > c and a + c > b and b + c > a else print('NO')
 ```
-# 13. Властелин Чисел: Братство общей цифры
+## 13. Властелин Чисел: Братство общей цифры
 ```python
 elf, gnome, human = input(), input(), input()
 
 print(''.join(a for a, b, c in zip(elf, gnome, human) if a == b == c))
 ```
-# 14. Властелин Чисел: Две Башни
+## 14. Властелин Чисел: Две Башни
 ```python
 n = sorted(input())
 
@@ -126,13 +126,13 @@ if '0' not in n:
 else:
     print(n[1] + n[0], n[2] + n[1])
 ```
-# 15. Властелин Чисел: Возвращение Цезаря
+## 15. Властелин Чисел: Возвращение Цезаря
 ```python
 n = sorted(input() + input())
 
 print(f'{n[-1]}{sum(int(elem) for elem in n[1:-1]) % 10}{n[0]}')
 ```
-# 16. Легенды велогонок возвращаются: кто быстрее?
+## 16. Легенды велогонок возвращаются: кто быстрее?
 ```python
 p, v, t = int(input()), int(input()), int(input())
 
@@ -159,7 +159,7 @@ elif max_speed == t and min_speed == v:
 else:
     table('Толя', 'Вася', 'Петя')
 ```
-# 17. Корень зла
+## 17. Корень зла
 ```python
 a, b, c = float(input()), float(input()), float(input())
 
@@ -177,7 +177,7 @@ elif D == 0 and a != 0:
 else:
     print('No solution')
 ```
-# 18. Территория зла
+## 18. Территория зла
 ```python
 a, b, c = int(input()), int(input()), int(input())
 
@@ -195,7 +195,7 @@ elif a1 + b1 < c1:
 else:
     print('100%')
 ```
-# 19. Автоматизация безопасности
+## 19. Автоматизация безопасности
 ```python
 x, y = float(input()), float(input())
 
@@ -210,7 +210,7 @@ elif ((x >= 0 and y >= 0 and y1 <= 5) or ((x <= 0 <= y) and y <= 5 and y <= (5 *
 else:
     print('Зона безопасна. Продолжайте работу.')
 ```
-# 20. Зайка — 2
+## 20. Зайка — 2
 ```python
 s1, s2, s3 = input(), input(), input()
 
