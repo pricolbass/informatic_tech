@@ -42,6 +42,7 @@
         <li>Индивидуальное задание 3 (<a href='https://github.com/LunisLinus/homework_moais/tree/main/2_sem/UI/8_project/3_individual%20task'>СГУ</a>)</li>
         <li>Индивидуальное задание 4 (<a href='https://github.com/LunisLinus/homework_moais/tree/main/2_sem/UI/8_project/4_individual%20task'>СГУ</a>)</li>
         <li>Индивидуальное задание 5 (<a href='https://github.com/LunisLinus/homework_moais/tree/main/2_sem/UI/8_project/5_individual%20task'>СГУ</a>)</li>
+        <li>Итог (<a href='https://github.com/LunisLinus/homework_moais/tree/main/2_sem/UI/8_project/6_finish'>СГУ</a>)</li>
       </ul>
     </details>
     </li>
