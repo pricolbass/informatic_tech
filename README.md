@@ -22,6 +22,7 @@
     <li>Функции (<a href='https://github.com/LunisLinus/homework_moais/tree/main/2_sem/ITP/9_funcs/SSU'>СГУ</a> и <a href='https://github.com/LunisLinus/homework_moais/tree/main/2_sem/ITP/9_funcs/Yandex'>Яндекс LMS</a>)</li>
     <li>КР по функциям на Яндекс LMS (<a href='https://github.com/LunisLinus/homework_moais/blob/main/2_sem/ITP/Yandex_TP/lms_4.4-1.md'>1 и 2 подгруппы</a> и для <a href='https://github.com/LunisLinus/homework_moais/blob/main/2_sem/ITP/Yandex_TP/lms_4.4-2.md'>3 подгруппы</a>)</li>
     <li>Сортировки (<a href='https://github.com/LunisLinus/homework_moais/tree/main/2_sem/ITP/10_sort/SSU'>СГУ</a>)</li>
+    <li>Исключения (<a href='https://github.com/LunisLinus/homework_moais/tree/main/2_sem/ITP/11_exceptions'>СГУ</a>)</li>
   </ul>
 </details>
 <details>
