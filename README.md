@@ -61,3 +61,12 @@
     <li>Использование API (<a href='https://github.com/LunisLinus/homework_moais/blob/main/2_sem/ADSPS/SSU/%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20API%201.py'>1 часть, СГУ</a>, <a href='https://github.com/LunisLinus/homework_moais/blob/main/2_sem/ADSPS/SSU/%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20API%201.1.py'>1.1 часть, СГУ</a> и <a href='https://github.com/LunisLinus/homework_moais/blob/main/2_sem/ADSPS/SSU/%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20API%202.py'>2 часть, СГУ</a>)</li>
   </ul>
 </details>
+
+## Летняя практика после 1 курса
+<details>
+  <summary>Google Colab</summary>
+  <ul> 
+    <li>Google Colab для просмотра (<a href='https://colab.research.google.com/drive/1nLHVxbuU0a0-Vgr7g_Qrqv7fUfSHnZ38?usp=sharing'>Google Colab</a>)</li>
+  </ul>
+</details>
+
