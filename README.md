@@ -64,9 +64,13 @@
 
 ## Летняя практика после 1 курса
 <details>
-  <summary>Google Colab</summary>
+  <summary>Информационные технологии и программирование</summary>
   <ul> 
-    <li>Google Colab для просмотра (<a href='https://colab.research.google.com/drive/1nLHVxbuU0a0-Vgr7g_Qrqv7fUfSHnZ38?usp=sharing'>Google Colab</a>)</li>
+    <li>Встроенные модули (<a href='https://github.com/LunisLinus/homework_moais/tree/main/summer_practise_1/google_colab'>СГУ</a>)</li>
+    <li>Модуль NumPy (<a href='https://github.com/LunisLinus/homework_moais/tree/main/summer_practise_1/google_colab'>СГУ</a>)</li>
+    <li>Модуль Pandas (<a href='https://github.com/LunisLinus/homework_moais/tree/main/summer_practise_1/google_colab'>СГУ</a>)</li>
+    <li>Визуализация (<a href='https://colab.research.google.com/drive/15q8r1BgsSkKB_mo1qqSNHpvPomtFzRWE?usp=sharing'>Доклад (plotly)</a>, <a href='https://github.com/LunisLinus/homework_moais/tree/main/summer_practise_1/google_colab'>СГУ</a></li>
+    <li>Итоговое задание (<a href='https://github.com/LunisLinus/homework_moais/tree/main/summer_practise_1/google_colab'>СГУ</a>)</li>
   </ul>
 </details>
 
