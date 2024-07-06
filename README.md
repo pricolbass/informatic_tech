@@ -66,11 +66,11 @@
 <details>
   <summary>Информационные технологии и программирование</summary>
   <ul> 
-    <li>Встроенные модули (<a href='https://github.com/LunisLinus/homework_moais/tree/main/summer_practise_1/google_colab'>СГУ</a>)</li>
-    <li>Модуль NumPy (<a href='https://github.com/LunisLinus/homework_moais/tree/main/summer_practise_1/google_colab'>СГУ</a>)</li>
-    <li>Модуль Pandas (<a href='https://github.com/LunisLinus/homework_moais/tree/main/summer_practise_1/google_colab'>СГУ</a>)</li>
-    <li>Визуализация (<a href='https://colab.research.google.com/drive/15q8r1BgsSkKB_mo1qqSNHpvPomtFzRWE?usp=sharing'>Доклад (plotly)</a> и <a href='https://github.com/LunisLinus/homework_moais/tree/main/summer_practise_1/google_colab'>СГУ</a>)</li>
-    <li>Итоговое задание (<a href='https://github.com/LunisLinus/homework_moais/tree/main/summer_practise_1/google_colab'>СГУ</a>)</li>
+    <li>Встроенные модули (<a href='https://github.com/LunisLinus/homework_moais/tree/main/summer_practise_1/google_colab'>Google Colab</a>)</li>
+    <li>Модуль NumPy (<a href='https://github.com/LunisLinus/homework_moais/tree/main/summer_practise_1/google_colab'>Google Colab</a>, <a href='https://github.com/LunisLinus/homework_moais/blob/main/summer_practise_1/SSU/ssu_2.7.md'>СГУ</a> и <a href='https://github.com/LunisLinus/homework_moais/blob/main/summer_practise_1/Yandex/lms_6.1.md'>Яндекс LMS</a>)</li>
+    <li>Модуль Pandas (<a href='https://github.com/LunisLinus/homework_moais/tree/main/summer_practise_1/google_colab'>Google Colab</a> и <a href='https://github.com/LunisLinus/homework_moais/blob/main/summer_practise_1/Yandex/lms_6.2.md'>Яндекс LMS</a>)</li>
+    <li>Визуализация (<a href='https://colab.research.google.com/drive/15q8r1BgsSkKB_mo1qqSNHpvPomtFzRWE?usp=sharing'>Доклад (plotly)</a> и <a href='https://github.com/LunisLinus/homework_moais/tree/main/summer_practise_1/google_colab'>Google Colab</a>)</li>
+    <li>Итоговое задание (<a href='https://github.com/LunisLinus/homework_moais/tree/main/summer_practise_1/google_colab'>Google Colab</a>)</li>
   </ul>
 </details>
 
