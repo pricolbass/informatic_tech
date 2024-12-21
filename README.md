@@ -24,9 +24,4 @@
     <li>Сортировки (<a href='https://github.com/LunisLinus/homework_moais/tree/main/2_sem/ITP/10_sort/SSU'>СГУ</a>)</li>
     <li>Исключения (<a href='https://github.com/LunisLinus/homework_moais/tree/main/2_sem/ITP/11_exceptions/SSU'>СГУ</a> и <a href='https://github.com/LunisLinus/homework_moais/tree/main/2_sem/ITP/11_exceptions/Yandex'>Яндекс LMS</a>)</li>
   </ul>
-</details>
-    <li>Визуализация (<a href='https://colab.research.google.com/drive/15q8r1BgsSkKB_mo1qqSNHpvPomtFzRWE?usp=sharing'>Доклад (plotly)</a> и <a href='https://github.com/LunisLinus/homework_moais/tree/main/summer_practise_1/google_colab'>Google Colab</a>)</li>
-    <li>Итоговое задание (<a href='https://github.com/LunisLinus/homework_moais/tree/main/summer_practise_1/google_colab'>Google Colab</a>)</li>
-  </ul>
-</details>
 
