@@ -1,7 +1,4 @@
 # Домашние задания и контрольные МОАИСа
-## 1 семестр
-<details>
-  <summary>Информационные технологии и программирование</summary>
   <ul> 
     <li>Линейные алгоритмы и ветвления (<a href='https://github.com/LunisLinus/homework_moais/tree/main/1_sem/ITP/SSU/%201_linear_algorithms'>СГУ</a>)</li>
     <li>Циклы (<a href='https://github.com/LunisLinus/homework_moais/tree/main/1_sem/ITP/SSU/2_cycles'>СГУ</a>)</li>
@@ -10,13 +7,6 @@
     <li>Списки (<a href='https://github.com/LunisLinus/homework_moais/tree/main/1_sem/ITP/SSU/5_lists'>СГУ</a>)</li>
     <li>Вложенные конструкции (<a href='https://github.com/LunisLinus/homework_moais/tree/main/1_sem/ITP/SSU/6_nested_constructs'>СГУ</a>)</li>
     <li>Яндекс первый семестр не был обязательным, поэтому не входит в блоки (<a href='https://github.com/LunisLinus/homework_moais/tree/main/1_sem/ITP/Yandex'>Яндекс LMS</a>)</li>
-  </ul>
-</details>
-
-## 2 семестр
-<details>
-  <summary>Информационные технологии и программирование</summary>
-  <ul> 
     <li>Множества (<a href='https://github.com/LunisLinus/homework_moais/tree/main/2_sem/ITP/7_sets/SSU'>СГУ</a> и <a href='https://github.com/LunisLinus/homework_moais/tree/main/2_sem/ITP/7_sets/Yandex'>Яндекс LMS</a>)</li>
     <li>Словари (<a href='https://github.com/LunisLinus/homework_moais/tree/main/2_sem/ITP/8_dictionaries/SSU'>СГУ</a> и <a href='https://github.com/LunisLinus/homework_moais/tree/main/2_sem/ITP/8_dictionaries/Yandex'>Яндекс LMS</a>)</li>
     <li>Функции (<a href='https://github.com/LunisLinus/homework_moais/tree/main/2_sem/ITP/9_funcs/SSU'>СГУ</a> и <a href='https://github.com/LunisLinus/homework_moais/tree/main/2_sem/ITP/9_funcs/Yandex'>Яндекс LMS</a>)</li>
