@@ -1,4 +1,4 @@
-# Домашние задания и контрольные МОАИСа
+# Домашние задания и контрольные МОАИСа по информационным технологиям за 1-2 семестр.
   <ul> 
     <li>Линейные алгоритмы и ветвления (<a href='https://github.com/LunisLinus/homework_moais/tree/main/1_sem/ITP/SSU/%201_linear_algorithms'>СГУ</a>)</li>
     <li>Циклы (<a href='https://github.com/LunisLinus/homework_moais/tree/main/1_sem/ITP/SSU/2_cycles'>СГУ</a>)</li>
